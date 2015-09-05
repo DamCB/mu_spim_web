@@ -119,11 +119,22 @@ cherche des collaborateurs avec des compétences dans:
   pour le projet!
 
 
+## Remerciements, soutiens
+
+> **Ce projet est soutenu matériellement par l'équipe IP3D de l'ITAV.**
+
+
+> Merci à Corrine Lorenzo, Bernard Ducommun, Martine Cazalès, Valérie Lobjois et
+toute l'équipe! 
+
+
+
+
 ## Open manifesto // Projet libre et communs
 
 Quelques points fondamentaux sur l'éthique libre du projet. Le mu-spim est pensé
 comme une plate-forme ouverte de microscopie pour smartphone. La version
-courante, caoutchouc, est distribué selon une licence Creéative Commons, permettant à chacun de reprendre ce projet à son compte.
+courante, caoutchouc, est distribué selon une licence Creéative Commons, permettant à chacun d'y participer librement.
 
 
 
