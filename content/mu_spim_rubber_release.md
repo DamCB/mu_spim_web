@@ -59,7 +59,7 @@ peuvent se référer au site du projet (où on trouvera aussi des images)._
 
 ### À l'aide!!
 
-Ce projet est encore au début de son développement, et à besoin de bras! Je
+Ce projet est encore au début de son développement, et a besoin de bras! Je
 cherche des collaborateurs avec des compétences dans:
 
 * L'_éducation, la vulgarisation, la divulgation_:
@@ -79,18 +79,18 @@ cherche des collaborateurs avec des compétences dans:
 * La _production de projet / financement_:
 
   Eh oui, on ne vit pas seulement d'amour et d'eau fraîche. Ce projet mérite
-  d'être supporté financièrement, si vous avez l'expérience de ce type de
+  d'être appuyé financièrement, si vous avez l'expérience de ce type de
   production (subventions / financement participatif...), faîtes signe!
 
 * Le _dessin technique, la CAO_:
 
-  Il y a encore beaucoup à faire sur ce plan là:
+  Il y a encore beaucoup à faire sur ce plan là,
   améliorer les suppports d'optiques, dessiner le/les supports d'échantillons (motorisés!), faire une version facilement imprimable, etc.
 
 * Le _design_:
 
   Voir la première photo de ce post, là aussi il y a du boulot!
-  Il faut dessiner le carrénage, la boîte de transport, penser entièrement
+  Il faut dessiner le carénage, la boîte de transport, penser entièrement
   l'ergonomie de la collecte et du montage d'échantillon ...
 
 * Le _développement mobile_:
@@ -103,10 +103,12 @@ cherche des collaborateurs avec des compétences dans:
 
  Il y a du montage à faire, de la composition, la vidéo d'une campagne de
  financement participatif, etc. Il y a aussi des aspects web/backend qui peuvent
- être intéressants (site du projet, gallerie...)
+ être intéressants (site du projet, galerie...)
 
 * L'_analyse d'image et la reconstuction 3D_:
 
+ Le microscope doit permettre à terme d'accéder à une reconstruction 3D de l'objet imagé.
+ Il faut développer la chaîne de traitement d'images permettant cette reconstruction.  
  Vaste programme, mais la microscopie à feuille de lumière est une méthode 3D,
  et l'un des objectifs du projet est là!
 
