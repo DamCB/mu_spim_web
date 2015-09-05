@@ -16,20 +16,22 @@ _Le Mu-spim est un microscope à **feuille de lumière** pour smartphone_
 
  ![The mu-spim v.0.1 - rubber](images/gallery/rubber/mu-spim_instrument.jpg)
 
-To take an image, one suspends the sample (here a grain of peper) in the small
-cubic room, in front of the telephone's objective.
 
 _Pour prendre une image, on suspend l'échantillon (ici un grain de poivre) dans
 la petite chambre cubique, devant l'objectif du téléphone_
 
+_Le microscope utilise la LED du téléphone pour illuminer un échantillon, et
+**une lentille cylindrique** crée une feuille de lumière. On voit ce champ
+lumineux par la tranche sur l'image suivante_
+
+
+To take an image, one suspends the sample (here a grain of peper) in the small
+cubic room, in front of the telephone's objective.
 
 The microscope uses the phone's LED flash to illuminate the sample, and a
 **cylindrical lens** creates a light-sheet. A section of the flat light field
 can be seen on the next image:
 
-_Le microscope utilise la LED du téléphone pour illuminer un échantillon, et
-**une lentille cylindrique** crée une feuille de lumière. On voit ce champ
-lumineux par la tranche sur l'image suivante_
 
 ![The mu-spim v.0.1 - rubber](images/gallery/rubber/mu-spim_light_sheet.jpg)
 
@@ -123,20 +125,22 @@ cherche des collaborateurs avec des compétences dans:
 
 > **Ce projet est soutenu matériellement par l'équipe IP3D de l'ITAV.**
 
+[![Logo ITAV](images/logo_itav.png) ](http://www.itav-recherche.fr/index.php/fr/menu-itavequipeip3d)
 
 > Merci à Corrine Lorenzo, Bernard Ducommun, Martine Cazalès, Valérie Lobjois et
-toute l'équipe! 
+toute l'équipe!
 
-
-
-
-## Open manifesto // Projet libre et communs
+## Open manifesto // Projet libre
 
 Quelques points fondamentaux sur l'éthique libre du projet. Le mu-spim est pensé
 comme une plate-forme ouverte de microscopie pour smartphone. La version
-courante, caoutchouc, est distribué selon une licence Creéative Commons, permettant à chacun d'y participer librement.
+courante, baptisée "caoutchouc", est distribué selon une licence Creative Commons, permettant à chacun d'y participer librement.
 
 
+Libre ne veut pas dire gratuit et tout travail mérite salaire, je suis donc à la
+recherche active de financements.
+
+Le projet est hébergé par la société **[DamCB](http://damcb.com)**.
 
 
 <a href="https://zenodo.org/badge/latestdoi/8450/glyg/mu_spim"><img src="https://zenodo.org/badge/8450/glyg/mu_spim.svg" alt="10.5281/zenodo.30518"></a>
