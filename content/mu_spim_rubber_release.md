@@ -1,35 +1,42 @@
-title: Mu spim, a ligth-sheet microscopy smartphone
+title: Mu spim, a ligth-sheet microscope for smartphones
 slug: mu_spim_rubber
 date:
 tags: mu-spim, microscopy
 summary: I'm happy to present the prototype of the mu-spim, a light-sheet microscope.
 
-# La version 0.1 du mu-spim est sortie! mu-spim v0.1 is out!
+## Intro
+
+
 
 
 Mu-spim implements **light sheet microscopy** on a
-smartphone camera.
+smartphone.
 
 _Le Mu-spim est un microscope à **feuille de lumière** pour smartphone_
 
- ![The mu-spim v.0.1 - rubber](images/mu-spim_instrument.jpg)
+ ![The mu-spim v.0.1 - rubber](images/gallery/rubber/mu-spim_instrument.jpg)
 
-To take an image, one suspends the sample (here a grain of peper) in the small cubic room, in front of the telephone's objective.
+To take an image, one suspends the sample (here a grain of peper) in the small
+cubic room, in front of the telephone's objective.
 
 _Pour prendre une image, on suspend l'échantillon (ici un grain de poivre) dans
 la petite chambre cubique, devant l'objectif du téléphone_
 
 
-The microscope uses the phone's LED flash to illuminate the sample, and a **cylindrical lens** creates a light-sheet. A section of the flat light field can be seen on the next image:
+The microscope uses the phone's LED flash to illuminate the sample, and a
+**cylindrical lens** creates a light-sheet. A section of the flat light field
+can be seen on the next image:
 
-_Le microscope utilise la LED du téléphone pour illuminer un échantillon, et **une lentille cylindrique** créé une feuille de lumière. On voit ce champ lumineux par la tranche sur l'image suivante_
+_Le microscope utilise la LED du téléphone pour illuminer un échantillon, et
+**une lentille cylindrique** crée une feuille de lumière. On voit ce champ
+lumineux par la tranche sur l'image suivante_
 
-![The mu-spim v.0.1 - rubber](images/mu-spim_light_sheet.jpg)
+![The mu-spim v.0.1 - rubber](images/gallery/rubber/mu-spim_light_sheet.jpg)
 
 There is still a lot of work to have a proper instrument, but that nevertheless
 the concrete output  of some months worth of head scratching. I don't have much
 time for proper documentation,  [but you can browse the project on
-github](https://github.com/glyg/mu-spim).
+github](https://github.com/DamCB/mu-spim).
 
 _Il y a encore beaucoup de travail pour avoir un instrument correct, mais c'est
 quand même la concrétisation de quelques mois de remue-méninges. Je n'ai pas
@@ -40,7 +47,7 @@ peuvent se référer au site du projet (où on trouvera aussi des images)._
 
 ## Une graîne de cumin
 
-![Mu-spim image of a cumin seed](images/mu-spim_graine_de_cumin.png)
+![Mu-spim image of a cumin seed](images/gallery/rubber/mu-spim_graine_de_cumin.png)
 
 
 ## One video, fleur sêchée
@@ -110,6 +117,12 @@ cherche des collaborateurs avec des compétences dans:
   pour le projet!
 
 
+## Open manifesto // Projet libre et communs
+
+Quelques points fondamentaux sur l'éthique libre du projet. Le mu-spim est pensé
+comme une plate-forme ouverte de microscopie pour smartphone. La version
+courante, caoutchouc, est distribué selon une licence Creéative Commons, permettant à chacun de reprendre ce projet à son compte.
+
 
 
 
@@ -118,4 +131,4 @@ cherche des collaborateurs avec des compétences dans:
 
 
 
-Le projet mu-spim est sous licence CC-BY-NA-NC. guillaume@damcb.com
+Le projet mu-spim est sous licence CC-BY-SA-NC. guillaume@damcb.com
