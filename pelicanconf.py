@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Guillaume Gay'
-SITENAME = u'Mu-spim'
-SITEURL = ''
+SITENAME = u'Mu-Spim'
+SITEURL = 'http://mu-spim.xyz'
 
 PATH = 'content'
 
@@ -20,14 +20,15 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('DamCB', 'http://damcb.com/'),
+         ('ITAV - IP3D',
+          'http://http://www.itav-recherche.fr/index.php/fr/menu-itavequipeip3d/'),
+         ('Foldscope', 'http://foldscope.com/'),
+         ('Open-spim', 'http://openspim.org'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('GitHub', 'https://github.com/DamCB/mu-spim'),
+          ('Twitter', 'https://twitter.com/SpimMu'),)
 
 DEFAULT_PAGINATION = 10
 

@@ -22,3 +22,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
+SSH_HOST = 'damcb.com'
+SSH_PORT = '333'
+SSH_USER = 'admin'
+SSH_TARGET_DIR = '/srv/datadisk01/mu-spim'
