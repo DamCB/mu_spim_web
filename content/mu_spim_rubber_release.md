@@ -2,6 +2,7 @@ title: Mu spim, a ligth-sheet microscope for smartphones
 slug: mu_spim_rubber
 date:
 tags: mu-spim, microscopy
+gallery:rubber
 summary: I'm happy to present the prototype of the mu-spim, a light-sheet microscope.
 
 ## Intro
@@ -108,7 +109,7 @@ référence à tous les niveaux (sur les aspects éducatifs, l'optique,
 l'ergonomie).
 
 > Le mu-spim est un croisement de ces deux instruments, pour voir ce qui peut
-résulter de la poliniation croisée.
+résulter de ce mélange.
 
 
 _I got the idea of the mu-spim about a year ago, scratching my head for an
@@ -122,18 +123,22 @@ absolute reference at every level (educational, optics, usability...)._
 >_The mu-spim is a mashup of those two microscopes,
 to see what can come out of the breeding!_
 
-# Now for some images!
+# Gallerie
 
+[Visitez le tumblr](https://muspim.tumblr.com)
 
-## Une graîne de cumin
+_[tumblr is this way ](https://muspim.tumblr.com)_
 
-![Mu-spim image of a cumin seed](images/gallery/rubber/mu-spim_graine_de_cumin.png)
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/G0WaPbM98WcVM4cz1h1FpA/128703260561" data-did="69d42b71d9aecbe701c68aafa1d788af6375844f"><a href="http://muspim.tumblr.com/post/128703260561/en-haut-pointe-dune-graine-de-coriandre-en">http://muspim.tumblr.com/post/128703260561/en-haut-pointe-dune-graine-de-coriandre-en</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 
 ## One video, fleur sêchée
 
+Il y a aussi une collectino de vidéos [chez vimeo](https://vimeo.com/album/3550899)!
 
-<iframe src="https://player.vimeo.com/video/138321561" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/138321561">Fleur s&ecirc;ch&eacute;e // Microscopy image of a flower stem. #mu-spim</a> from <a href="https://vimeo.com/user12210065">glyg</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+_Go see [vimeo's video collection](https://vimeo.com/album/3550899)_
+
+<iframe src="https://player.vimeo.com/video/138321561" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/138321561">Fleur s&ecirc;ch&eacute;e // Microscopy image of a flower stem.</a> from <a href="https://vimeo.com/user12210065">glyg</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <hr/>
 

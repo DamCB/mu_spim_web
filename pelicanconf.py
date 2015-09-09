@@ -19,6 +19,11 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+DISPLAY_TAGS_ON_SIDEBAR = False
+
+THEME = 'notmyidea'
+BOOTSTRAP_THEME = 'flatly'
+
 # Blogroll
 LINKS = (('DamCB', 'http://damcb.com/'),
          ('ITAV - IP3D',
@@ -27,15 +32,13 @@ LINKS = (('DamCB', 'http://damcb.com/'),
          ('Open-spim', 'http://openspim.org'),)
 
 # Social widget
-SOCIAL = (('GitHub', 'https://github.com/DamCB/mu-spim'),
+SOCIAL = (('tumblr', 'http://muspim.tumblr.com/'),
+          ('GitHub', 'https://github.com/DamCB/mu-spim'),
           ('Twitter', 'https://twitter.com/SpimMu'),)
 
 DEFAULT_PAGINATION = 10
 
 
-PLUGIN_PATHS = ['../Pelican/pelican-plugins/', ]
-PLUGINS = ['summary',
-           'gallery']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
