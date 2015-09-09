@@ -32,5 +32,10 @@ SOCIAL = (('GitHub', 'https://github.com/DamCB/mu-spim'),
 
 DEFAULT_PAGINATION = 10
 
+
+PLUGIN_PATHS = ['../Pelican/pelican-plugins/', ]
+PLUGINS = ['summary',
+           'gallery']
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
