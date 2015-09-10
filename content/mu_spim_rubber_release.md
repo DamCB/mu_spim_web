@@ -1,9 +1,14 @@
-title: Mu spim, a ligth-sheet microscope for smartphones
+title: Mu-Spim version 0.1 - rubber - caoutchouc
 slug: mu_spim_rubber
 date:
 tags: mu-spim, microscopy
 gallery:rubber
 summary: I'm happy to present the prototype of the mu-spim, a light-sheet microscope.
+
+
+<iframe src="https://player.vimeo.com/video/138897580" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/138897580">Mu-Spim version 0.1 - rubber - caoutchouc</a> from <a href="https://vimeo.com/user12210065">glyg</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
 
 ## Intro
 
@@ -13,7 +18,9 @@ Le Mu-spim est un microscope à **feuille de lumière** pour smartphone.
 _Mu-spim implements **light sheet microscopy** on a
 smartphone._
 
-![The mu-spim v.0.1 - rubber](images/gallery/rubber/mu_spim_instrument_all.png)
+![The mu-spim v.0.1 - rubber](images/gallery/rubber/mu_spim_instrument.png)
+
+
 
 À droite de l'image, on voit le téléphone avec le mu-spim au dos. La caméra du
 téléphone regarde à travers un objectif dans le petit cube blanc (la chambre).
@@ -21,8 +28,7 @@ Pour prendre une image, on suspend l'échantillon (ici un grain de poivre) dans
 la chambre, à l'aide de la pince photographiée.
 
 Le microscope utilise la LED du téléphone pour illuminer un échantillon, et
-**une lentille cylindrique** crée une feuille de lumière. On voit une section de
-ce champ lumineux dans l'image de  gauche.
+**une lentille cylindrique** crée une feuille de lumière. On voit une section de ce champ lumineux dans l'image de  gauche.
 
 Il y a encore beaucoup de travail pour avoir un instrument correct, mais c'est
 quand même la concrétisation de quelques mois de remue-méninges.
@@ -52,6 +58,72 @@ assuré).
 _All the documentation, blue prints and images of this project are distributed
 under a CC-BY-SA-NC licence. The nono-commercial close is an extra-protection for the beginning of the project, and might be lifted when funding is secured._
 
+# Quelques images
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/G0WaPbM98WcVM4cz1h1FpA/128703260561" data-did="69d42b71d9aecbe701c68aafa1d788af6375844f"><a href="http://muspim.tumblr.com/post/128703260561/en-haut-pointe-dune-grain
+
+
+### À l'aide!!
+
+Ce projet est encore au début de son développement, et a besoin de bras! Je
+cherche des collaborateurs avec des compétences dans:
+
+* _L'éducation, la vulgarisation, la divulgation_:
+
+ Le but premier du mu-spim est de permettre la manipulation d'un microscope et
+ l'observation de petits objets (vivants) par des jeunes publics et des scientifiques
+ amateurs, en lien avec l'univers des fablabs et la recherche en biologie.
+
+
+* _La communication scientifique_:
+
+  Dans un deuxième temps, le projet mettra  en lien le public et les biologistes /
+  microscopistes, à travers l'échange d'échantillons et d'images. C'est
+  l'occasion de raconter un peu ce qu'il se passe dans les labos! Il y a en
+  général sur le projet un gros boulot de rédactionnel (explication, notices de montage, etc.)
+
+* _La production de projet / financement_:
+
+  Eh oui, on ne vit pas seulement d'amour et d'eau fraîche. Ce projet mérite
+  d'être appuyé financièrement, si vous avez l'expérience de ce type de
+  production (subventions / financement participatif...), faîtes signe!
+
+* _Le dessin technique, la CAO_:
+
+  Il y a encore beaucoup à faire sur ce plan là,
+  améliorer les suppports d'optiques, dessiner le/les supports d'échantillons (motorisés!), faire une version facilement imprimable, etc.
+
+* _Le design_:
+
+  Voir la première photo de ce post, là aussi il y a du boulot!
+  Il faut dessiner le carénage, la boîte de transport, penser entièrement
+  l'ergonomie de la collecte et du montage d'échantillon ...
+
+* _Le développement mobile_:
+
+  L'appli photo du téléphone n'est pas suffisante pour gérer finement
+  l'aquisition d'image, une application dédiée sur le smartphone est
+  indispensable!
+
+* _Le traitement d'images et la vidéo_:
+
+ Il y a du montage à faire, de la composition, la vidéo d'une campagne de
+ financement participatif, etc. Il y a aussi des aspects web/backend qui peuvent
+ être intéressants (site du projet, galerie...)
+
+* _L'analyse d'image et la reconstuction 3D_:
+
+ Le microscope doit permettre à terme d'accéder à une reconstruction 3D de l'objet imagé.
+ Il faut développer la chaîne de traitement d'images permettant cette reconstruction.  
+ Vaste programme, mais la microscopie à feuille de lumière est une méthode 3D,
+ et l'un des objectifs du projet est là!
+
+* _La microbiologie et la microscopie_ (last but not least):
+
+  Je cherche des échantillons, des images, des sujets et des cas d'usage... Si
+  vous êtes amenés à regarder des choses à la binoculaire, c'est intéressant
+  pour le projet!
+
 
 ## Pourquoi mu-spim - why the name?
 
@@ -59,7 +131,7 @@ Commençons par la fin: SPIM veut dire, en anglais, _Selective Plane Illuminatio
 Microscopy_,  ou microscopie par illumination plane sélective. C'est un des
 premiers acronymes utilisé pour ce type de microscope, et il "sonne" bien. Le
 préfixe mu veut bien sûr dire micro, mais fait plus particulièrement référence à
-un modèle d'appareil photo, le µ-1 d'Olympius, un petit compact à pélicule et
+un modèle d'appareil photo, le µ-one d'Olympius, un petit compact à pélicule et
 mon premier appareil.
 
 _SPIM stands for Selective Plane illumination Microscopy and was an early acronym
@@ -90,10 +162,10 @@ medecine/science](http://www.medecinesciences.org/articles/medsci/pdf/2011/07/me
 _Light sheet microscopy was initially developed in the early XX<sup>th</sup>
 century and rediscovered by Ernst Steltzer group at EMBL (Heidelberg) about ten
 years ago. Refitted with modern instrumentation and detectors, it gave birth to
-a wealth of exceptional data in cell and develoment biology giving access to long terms 3D images. Go look it up, there are plenty of videos around._
+a wealth of exceptional data in cell and development biology giving access to long terms 3D images. Go look it up, there are plenty of videos around._
 
 _In 2008, Corinne Lorenzo and I spent one week in Steltzer's lab, and Emmanuel
-Reynaud taught us the bases of light sheet microscopy. Comming back to the LBCMCP wher we both worked at the time, we build the first French light-sheet microscope._
+Reynaud taught us the bases of light sheet microscopy. Coming back to the LBCMCP wher we both worked at the time, we build the first French light-sheet microscope._
 
 
 ![spim_x_foldscope](images/spim_plus_foldscope.png)
@@ -123,85 +195,8 @@ absolute reference at every level (educational, optics, usability...)._
 >_The mu-spim is a mashup of those two microscopes,
 to see what can come out of the breeding!_
 
-# Gallerie
-
-[Visitez le tumblr](https://muspim.tumblr.com)
-
-_[tumblr is this way ](https://muspim.tumblr.com)_
-
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/G0WaPbM98WcVM4cz1h1FpA/128703260561" data-did="69d42b71d9aecbe701c68aafa1d788af6375844f"><a href="http://muspim.tumblr.com/post/128703260561/en-haut-pointe-dune-graine-de-coriandre-en">http://muspim.tumblr.com/post/128703260561/en-haut-pointe-dune-graine-de-coriandre-en</a></div><script async src="https://secure.assets.tumblr.com/post.js"></script>
-
-
-## One video, fleur sêchée
-
-Il y a aussi une collectino de vidéos [chez vimeo](https://vimeo.com/album/3550899)!
-
-_Go see [vimeo's video collection](https://vimeo.com/album/3550899)_
-
-<iframe src="https://player.vimeo.com/video/138321561" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/138321561">Fleur s&ecirc;ch&eacute;e // Microscopy image of a flower stem.</a> from <a href="https://vimeo.com/user12210065">glyg</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
 <hr/>
 
-### À l'aide!!
-
-Ce projet est encore au début de son développement, et a besoin de bras! Je
-cherche des collaborateurs avec des compétences dans:
-
-* L'_éducation, la vulgarisation, la divulgation_:
-
- Le but premier du mu-spim est de permettre la manipulation d'un microscope et
- l'observation de petits objets (vivants) par des jeunes publics et des scientifiques
- amateurs, en lien avec l'univers des fablabs et la recherche en biologie.
-
-
-* La _communication scientifique_:
-
-  Dans un deuxième temps, le projet mettra  en lien le public et les biologistes /
-  microscopistes, à travers l'échange d'échantillons et d'images. C'est
-  l'occasion de raconter un peu ce qu'il se passe dans les labos! Il y a en
-  général sur le projet un gros boulot de rédactionnel (explication, notices de montage, etc.)
-
-* La _production de projet / financement_:
-
-  Eh oui, on ne vit pas seulement d'amour et d'eau fraîche. Ce projet mérite
-  d'être appuyé financièrement, si vous avez l'expérience de ce type de
-  production (subventions / financement participatif...), faîtes signe!
-
-* Le _dessin technique, la CAO_:
-
-  Il y a encore beaucoup à faire sur ce plan là,
-  améliorer les suppports d'optiques, dessiner le/les supports d'échantillons (motorisés!), faire une version facilement imprimable, etc.
-
-* Le _design_:
-
-  Voir la première photo de ce post, là aussi il y a du boulot!
-  Il faut dessiner le carénage, la boîte de transport, penser entièrement
-  l'ergonomie de la collecte et du montage d'échantillon ...
-
-* Le _développement mobile_:
-
-  L'appli photo du téléphone n'est pas suffisante pour gérer finement
-  l'aquisition d'image, une application dédiée sur le smartphone est
-  indispensable!
-
-* Le _traitement d'images et la vidéo_:
-
- Il y a du montage à faire, de la composition, la vidéo d'une campagne de
- financement participatif, etc. Il y a aussi des aspects web/backend qui peuvent
- être intéressants (site du projet, galerie...)
-
-* L'_analyse d'image et la reconstuction 3D_:
-
- Le microscope doit permettre à terme d'accéder à une reconstruction 3D de l'objet imagé.
- Il faut développer la chaîne de traitement d'images permettant cette reconstruction.  
- Vaste programme, mais la microscopie à feuille de lumière est une méthode 3D,
- et l'un des objectifs du projet est là!
-
-* La _microbiologie et la microscopie_ (last but not least):
-
-  Je cherche des échantillons, des images, des sujets et des cas d'usage... Si
-  vous êtes amenés à regarder des choses à la binoculaire, c'est intéressant
-  pour le projet!
 
 
 ## Remerciements, soutiens

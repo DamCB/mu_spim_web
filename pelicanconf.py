@@ -18,11 +18,14 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-
+DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_TAGS_ON_SIDEBAR = False
 
 THEME = 'notmyidea'
 BOOTSTRAP_THEME = 'flatly'
+
+MENUITEMS = (('A DamCB project', 'http://damcb.com'),
+             ('Video collection', 'https://vimeo.com/album/3550899'),)
 
 # Blogroll
 LINKS = (('DamCB', 'http://damcb.com/'),
