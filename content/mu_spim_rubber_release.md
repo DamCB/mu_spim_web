@@ -18,7 +18,7 @@ Le Mu-spim est un microscope à **feuille de lumière** pour smartphone.
 _Mu-spim implements **light sheet microscopy** on a
 smartphone._
 
-![The mu-spim v.0.1 - rubber](images/gallery/rubber/mu_spim_instrument.png)
+![The mu-spim v.0.1 - rubber](images/gallery/rubber/mu_spim_instrument_all.png)
 
 
 
@@ -58,12 +58,9 @@ assuré).
 _All the documentation, blue prints and images of this project are distributed
 under a CC-BY-SA-NC licence. The nono-commercial close is an extra-protection for the beginning of the project, and might be lifted when funding is secured._
 
-# Quelques images
+![Tissus à l'intérieur d'une graine de cardamome](images/gallery/rubber/mu-spim_cardamom.jpg)
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/G0WaPbM98WcVM4cz1h1FpA/128703260561" data-did="69d42b71d9aecbe701c68aafa1d788af6375844f"><a href="http://muspim.tumblr.com/post/128703260561/en-haut-pointe-dune-grain
-
-
-### À l'aide!!
+## Rejoignez nous!
 
 Ce projet est encore au début de son développement, et a besoin de bras! Je
 cherche des collaborateurs avec des compétences dans:
@@ -219,11 +216,3 @@ Libre ne veut pas dire gratuit et tout travail mérite salaire, je suis donc à 
 recherche active de financements.
 
 Le projet est hébergé par la société **[DamCB](http://damcb.com)**.
-
-
-<a href="https://zenodo.org/badge/latestdoi/8450/glyg/mu_spim"><img src="https://zenodo.org/badge/8450/glyg/mu_spim.svg" alt="10.5281/zenodo.30518"></a>
-
-
-
-
-Le projet mu-spim est sous licence CC-BY-SA-NC. guillaume@damcb.com
