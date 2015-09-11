@@ -1,6 +1,6 @@
 title: Mu-Spim version 0.1 - rubber - caoutchouc
 slug: mu_spim_rubber
-date:
+date: 09-12-2015
 tags: mu-spim, microscopy
 gallery:rubber
 summary: I'm happy to present the prototype of the mu-spim, a light-sheet microscope.
